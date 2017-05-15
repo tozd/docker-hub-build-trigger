@@ -1,4 +1,4 @@
-FROM tozd/cron
+FROM tozd/cron:ubuntu-xenial
 
 ENV DOCKER_IMAGE=
 ENV TRIGGER_TOKEN=
